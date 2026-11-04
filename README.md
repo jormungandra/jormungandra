@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 项目简介
+
+本仓库是 jormungandra 的 GitHub 个人主页仓库。仓库中的 README.md 会呈现在 GitHub 个人主页上，用于展示个人简介、技术方向与项目动态。
+
 <!--
 **jormungandra/jormungandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
